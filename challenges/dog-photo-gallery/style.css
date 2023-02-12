@@ -60,4 +60,13 @@ body {
 
 main ul {
     list-style: none;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dog-image {
+    max-width: 800px;
+    max-height: 500px;
 }
